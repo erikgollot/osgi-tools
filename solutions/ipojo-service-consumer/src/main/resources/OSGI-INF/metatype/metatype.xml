@@ -1,0 +1,12 @@
+<metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0">
+
+	<OCD description="ServletProvider" name="com.zenika.formation.servlet.configuration" id="com.zenika.formation.servlet.configuration">
+		<AD name="Alias" id="alias" required="true" type="String" default="/alias" />
+		<AD name="Text" id="text" required="false" type="String" />
+	</OCD>
+
+	<Designate pid="com.zenika.formation.servlet.configuration">
+		<Object ocdref="com.zenika.formation.servlet.configuration" />
+	</Designate>
+
+</metatype:MetaData>

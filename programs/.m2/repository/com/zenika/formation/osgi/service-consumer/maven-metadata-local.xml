@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.zenika.formation.osgi</groupId>
+  <artifactId>service-consumer</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140610200021</lastUpdated>
+  </versioning>
+</metadata>

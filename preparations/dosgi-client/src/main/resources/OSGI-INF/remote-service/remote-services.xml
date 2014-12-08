@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service-descriptions xmlns="http://www.osgi.org/xmlns/sd/v1.0.0">
+	<!-- a completer -->
+</service-descriptions>
